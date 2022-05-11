@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.patterns.singleton.LoggerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-11T11:27:11" hostname="DESKTOP-UTMB8DE" time="0.049">
+  <properties/>
+  <testcase name="testGetFileName()" classname="com.kodilla.patterns.singleton.LoggerTest" time="0.049"/>
+  <system-out><![CDATA[Log: [Some new log]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

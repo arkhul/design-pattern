@@ -1,0 +1,4 @@
+com/kodilla/patterns/singleton/SettingsFileEngineTest.java
+ com.kodilla.patterns.singleton.SettingsFileEngineTest
+com/kodilla/patterns/singleton/LoggerTest.java
+ com.kodilla.patterns.singleton.LoggerTest
